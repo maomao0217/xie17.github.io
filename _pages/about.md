@@ -1,18 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 欢迎来到我的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
----
-layout: home
-title: "欢迎来到我的个人主页"
----
-
-# 👋 欢迎来到我的个人主页
 
 大家好！我是 **XXX**，来自 **江西理工大学信息安全专业（2025级）**。  
 这是我在大学里的第一个个人主页，用来记录我的学习、成长和项目。
