@@ -1,18 +1,16 @@
 ---
 title: "网络空间安全导论"
-collection: courses
-category: learning
+collection: publications
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: "本课程介绍网络空间安全的基础知识，包括网络攻击与防御的基本概念、常用安全技术与工具。"
-date: 2025-03-01
-teacher: "任课教师：张老师"
-semester: "2025 春季学期"
+excerpt: '本课程介绍网络空间安全的基础知识，包括网络攻击与防御的基本概念、常用安全技术与工具。'
+date: 2009-10-01
+venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-report_url: ""
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-
 ## 📘 课程简介
 《网络空间安全导论》是信息安全专业大一新生的基础课程，主要介绍网络安全的基本概念、典型攻击方式、常见防御技术，以及网络空间安全的发展趋势。
 
@@ -44,3 +42,4 @@ report_url: ""
 ---
 
 （本页内容将作为课程学习记录展示在你的个人主页中。）
+
