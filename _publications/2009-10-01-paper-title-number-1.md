@@ -2,13 +2,14 @@
 title: "网络空间安全导论"
 collection: courses
 category: learning
-permalink: /course/2025-network-security-intro
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: "本课程介绍网络空间安全的基础知识，包括网络攻击与防御的基本概念、常用安全技术与工具。"
 date: 2025-03-01
 teacher: "任课教师：张老师"
 semester: "2025 春季学期"
-materials_url: "https://example.com/materials/network-security"
-slides_url: "https://example.com/slides/network-security-week1.pdf"
+slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 report_url: ""
 ---
 
